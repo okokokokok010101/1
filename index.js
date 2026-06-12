@@ -1,3 +1,6 @@
+console.log("Node version:", process.version);
+console.log("Mineflayer version:", require("mineflayer/package.json").version);
+
 "use strict";
 
 const { addLog, getLogs } = require("./logger");
