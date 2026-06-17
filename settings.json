@@ -1,7 +1,7 @@
 {
-  "name": "JAB2",
+  "name": "JAB3",
   "bot-account": {
-    "username": "JAB2",
+    "username": "JAB3",
     "password": "",
     "type": "offline"
   },
@@ -81,6 +81,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
