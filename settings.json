@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "randombs.mcsh.io",
+    "ip": "randombs2.mcsh.io",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
