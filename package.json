@@ -15,7 +15,7 @@
   "dependencies": {
     "express": "^4.18.1",
     "minecraft-data": "^3.103.0",
-    "mineflayer": "latest",
+    "mineflayer": "^4.37.0",
     "mineflayer-pathfinder": "^2.1.1"
   }
 }
